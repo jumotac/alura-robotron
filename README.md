@@ -1,3 +1,13 @@
+| :placard: Vitrine.Dev |     |
+| ------------- | --- |
+| :sparkles: Nome | **Alura Robotron - 2000** 
+| :label: Tecnologias | JAVASCRIPT, HTML, CSS 
+| :rocket: URL | https://jumotac.github.io/alura-robotron/
+| :fire: Desafio | JavaScript - Manipulando o DOM
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://raw.githubusercontent.com/jumotac/alura-robotron/master/img/robotron-2000.png#vitrinedev)
+
 # Robotron-2000 :robot:
 
 ### Aula 01: JavaScript para Web
